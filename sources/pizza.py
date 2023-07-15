@@ -35,5 +35,10 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
+    },
+    'ma pizza natcojo': {
+        'ingredients': {'mozzarella': 3, 'oregano': 1, 'ham': 1, 'pepper': 4, 'onion': 3},
+        'price': 12,
     }
+
 }
